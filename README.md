@@ -1,2 +1,1 @@
-# NodeJSMasterClass_2_PizzaDelivery
 # NodeJSMasterClass_3_PizzaDelivery
